@@ -53,5 +53,5 @@ Success Indicators:
 
 ---
 
-## Interview Talking Point
+## My thought process on this as a Manager
 “This framework lets leaders see exactly where new hires are succeeding or struggling and intervene early—before errors impact operations or compliance.”
