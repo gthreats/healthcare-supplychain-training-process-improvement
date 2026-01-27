@@ -19,5 +19,5 @@ Provide a clear, measurable method to validate readiness at 30, 60, and 90 days.
 ## Outcome
 This checklist ensures onboarding decisions are based on evidence—not time served.
 
-## Interview Talking Point
+## My thought process on this as a Manager
 “This is how I take subjectivity out of onboarding and protect operational quality.”
