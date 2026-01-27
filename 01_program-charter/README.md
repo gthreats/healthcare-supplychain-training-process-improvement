@@ -10,5 +10,5 @@ This folder establishes governance for a Supply Chain Education & Process Improv
 ## How this is applied
 These documents are used to align Supply Chain, IR, Finance, and operational leaders on priorities, training standards, and change-management expectations before launching new training or system functionality.
 
-## How I speak to this in an interview
+## My thought process on this as a Manager
 “I start with governance so training scales. This shows how I align leaders, define ownership, and ensure education supports operational control and measurable outcomes.”
