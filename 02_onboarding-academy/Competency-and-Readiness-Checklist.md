@@ -17,7 +17,7 @@ Provide a clear, measurable method to validate readiness at 30, 60, and 90 days.
 - Scenario-based discussion or demonstration
 
 ## Outcome
-This checklist ensures onboarding decisions are based on evidence—not time served.
+This checklist ensures onboarding decisions are based on evidence, not time served.
 
 ## My thought process on this as a Manager
 “This is how I take subjectivity out of onboarding and protect operational quality.”
