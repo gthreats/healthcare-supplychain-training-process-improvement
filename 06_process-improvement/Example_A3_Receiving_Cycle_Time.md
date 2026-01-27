@@ -1,4 +1,4 @@
-# Example A3: Receiving Cycle Time Reduction
+# Example: Receiving Cycle Time Reduction
 
 ## Problem Statement
 Receiving cycle time exceeds targets, causing delayed inventory availability and downstream fulfillment issues.
