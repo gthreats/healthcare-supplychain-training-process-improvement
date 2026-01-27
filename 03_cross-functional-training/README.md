@@ -2,7 +2,7 @@
 
 This folder contains training designed to improve coordination and reduce errors across Supply Chain, Information Resources (IR), Finance, and operational stakeholders.
 
-The focus is not deep specialization, but shared understanding of workflows, handoffs, and downstream impacts—especially in system-enabled processes.
+The focus is not deep specialization, but shared understanding of workflows, handoffs, and downstream impacts, especially in system-enabled processes.
 
 ## What’s Inside
 - End-to-end eProcurement training module
