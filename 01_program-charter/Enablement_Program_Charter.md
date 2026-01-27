@@ -4,7 +4,7 @@
 Establish a repeatable education and process improvement program that improves operational readiness, standardizes best practices, and supports system adoption across Supply Chain and institutional stakeholders.
 
 ## Problem Statement
-In healthcare supply chain, performance gaps commonly stem from inconsistent training, unclear ownership of processes, and uneven adoption of system functionality—creating rework, delays, and compliance risk.
+In healthcare supply chain, performance gaps commonly stem from inconsistent training, unclear ownership of processes, and uneven adoption of system functionality, creating rework, delays, and compliance risk.
 
 ## Goals
 - Reduce time-to-proficiency for new hires through role-based onboarding
