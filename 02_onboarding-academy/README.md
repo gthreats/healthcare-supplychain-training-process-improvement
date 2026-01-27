@@ -12,6 +12,6 @@ The onboarding academy focuses on role clarity, system understanding, compliance
 ## How this is applied
 These materials are used by managers and trainers to onboard new hires consistently, identify early skill gaps, and ensure new team members can safely and effectively perform in a security-sensitive healthcare setting.
 
-## How I speak to this in an interview
+## My thought process on this as a Manager
 “This is how I shorten ramp time and reduce errors. Instead of vague onboarding, I define what proficiency looks like at 30, 60, and 90 days and hold the process accountable.”
 
