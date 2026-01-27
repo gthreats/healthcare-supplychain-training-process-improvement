@@ -26,5 +26,5 @@ Ensure onboarding is tailored to functional responsibilities while maintaining s
 ## How this is applied
 Managers assign learning paths based on role while reinforcing cross-functional awareness to reduce handoff errors.
 
-## Interview Talking Point
+## My thought process on this as a Manager
 “This allows me to scale onboarding without treating every role the same, while still reinforcing shared accountability.”
