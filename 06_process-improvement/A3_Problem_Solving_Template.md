@@ -1,4 +1,4 @@
-# A3 Problem-Solving Template (Healthcare Supply Chain)
+# EXAMPLE Problem-Solving Template (Healthcare Supply Chain)
 
 ## Problem Statement
 Clearly define the problem, including impact to operations, service, cost, or compliance.
