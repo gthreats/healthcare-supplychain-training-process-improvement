@@ -50,7 +50,7 @@ Out of Scope (initially):
 
 In an academic medical center environment, this program would function as a centralized framework for supply chain education, system adoption, and process improvement. Role-based onboarding and readiness paths would establish consistent time-to-proficiency for new staff, while cross-functional training would support smoother handoffs between Supply Chain, Information Resources, Finance, and end-user departments.
 
-During system enhancements or workflow changes, the program would serve as the change enablement layer—supporting user readiness, communication, and adoption rather than relying on post-go-live support alone. Training effectiveness and system adoption would be monitored through defined KPIs, allowing leadership to connect education efforts to measurable operational outcomes such as error reduction, cycle time improvements, and reduced rework.
+During system enhancements or workflow changes, the program would serve as the change enablement layer, supporting user readiness, communication, and adoption rather than relying on post-go-live support alone. Training effectiveness and system adoption would be monitored through defined KPIs, allowing leadership to connect education efforts to measurable operational outcomes such as error reduction, cycle time improvements, and reduced rework.
 
 This approach allows education to scale alongside operational complexity while maintaining standardized practices, compliance, and continuous improvement.
 
