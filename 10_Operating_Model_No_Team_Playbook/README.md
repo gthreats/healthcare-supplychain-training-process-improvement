@@ -1,3 +1,5 @@
+![Operating Model – No Team to Scaled Execution](./visuals/No_Team_to_Scaled_Operating_Model.png)
+
 # Operating Model – Execution Without a Dedicated Team
 
 > **Purpose:** Define how the Supply Chain Enablement & Process Improvement function delivers value before full staffing is in place, while minimizing disruption to operational SMEs.
